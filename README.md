@@ -1,6 +1,7 @@
 # ASGCN(0.0)
 ## About
-ASGCN_ECML2019 contains the dataset and source code of paper "Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification"
+The dataset and source code of "Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification",
+published at ECML-PKDD 2019.
 ## Dataset
 Preprocessed data, i.e., Grid Structure, in the paper "Learning Aligned-Spatial Graph Convolutional Networks for Graph Classification"
 ## NOTE:
